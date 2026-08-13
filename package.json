@@ -1,0 +1,24 @@
+{
+  "name": "exerc-cio-backend",
+  "version": "1.0.0",
+  "description": "repositório dedicado à exercícios de backend",
+  "homepage": "https://github.com/GabrielBr1to/Exerc-cio-backend#readme",
+  "bugs": {
+    "url": "https://github.com/GabrielBr1to/Exerc-cio-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielBr1to/Exerc-cio-backend.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
